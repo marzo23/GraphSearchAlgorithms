@@ -1,0 +1,14 @@
+﻿ public List<InformationNode<Model>> GetElementList(string jsonArray) //el parametro json array no deberá empezar ni terminar con corchetes, así como deberá estar separado por punto y coma: {...}; {...}; {...}; etc; el orden del array deberá coincidir con el de su respectiva matriz de aristas
+        {
+            if (jsonArray == null || jsonArray.Equals(string.Empty))
+                return null;
+            List<InformationNode<Model>> list = new List<InformationNode<Model>>();
+            int i = 0;
+            foreach (string json in jsonArray.Split(','))
+            {
+                list.Add(new InformationNode<Model> { Information = JsonConvert.DeserializeObject<Model>(json), id = i++});
+            }
+            return list;
+
+        }
+

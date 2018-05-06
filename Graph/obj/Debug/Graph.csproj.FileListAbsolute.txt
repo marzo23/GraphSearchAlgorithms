@@ -1,0 +1,9 @@
+c:\users\l440\source\repos\Graph\Graph\obj\Debug\Graph.csprojResolveAssemblyReference.cache
+c:\users\l440\source\repos\Graph\Graph\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+c:\users\l440\source\repos\Graph\Graph\bin\Debug\Graph.exe.config
+c:\users\l440\source\repos\Graph\Graph\bin\Debug\Graph.exe
+c:\users\l440\source\repos\Graph\Graph\bin\Debug\Graph.pdb
+c:\users\l440\source\repos\Graph\Graph\bin\Debug\Newtonsoft.Json.dll
+c:\users\l440\source\repos\Graph\Graph\bin\Debug\Newtonsoft.Json.xml
+c:\users\l440\source\repos\Graph\Graph\obj\Debug\Graph.exe
+c:\users\l440\source\repos\Graph\Graph\obj\Debug\Graph.pdb
