@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph", "Graph\Graph.csproj", "{E6768275-0E37-460F-B422-F0E6CA156D69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RyanAir", "RyanAir\RyanAir.csproj", "{83374B01-879D-457E-814A-A85824AE9AF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotMap", "RobotMap\RobotMap.csproj", "{BDF3E08D-EB9C-4FE9-859F-FF85369BF82A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{E6768275-0E37-460F-B422-F0E6CA156D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6768275-0E37-460F-B422-F0E6CA156D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6768275-0E37-460F-B422-F0E6CA156D69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83374B01-879D-457E-814A-A85824AE9AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83374B01-879D-457E-814A-A85824AE9AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83374B01-879D-457E-814A-A85824AE9AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83374B01-879D-457E-814A-A85824AE9AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDF3E08D-EB9C-4FE9-859F-FF85369BF82A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDF3E08D-EB9C-4FE9-859F-FF85369BF82A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDF3E08D-EB9C-4FE9-859F-FF85369BF82A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDF3E08D-EB9C-4FE9-859F-FF85369BF82A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

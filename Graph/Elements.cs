@@ -65,8 +65,8 @@ namespace Graph
 
         public double? HeuristicByDestination(MapElement destination)
         {
-            Console.WriteLine("Destination x: {0}, Destination y: {1}", destination.x, destination.y);
-            Console.WriteLine("origen x: {0}, origen y: {1}", x, y);
+            //Console.WriteLine("Destination x: {0}, Destination y: {1}", destination.x, destination.y);
+            //Console.WriteLine("origen x: {0}, origen y: {1}", x, y);
             return Math.Sqrt(Math.Pow(destination.x - this.x, 2) + Math.Pow(destination.y - this.y, 2));
         }
     }
